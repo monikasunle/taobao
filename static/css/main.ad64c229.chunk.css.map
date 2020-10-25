@@ -1,0 +1,1 @@
+{"version":3,"sources":["firstHeader.css"],"names":[],"mappings":"AAAA,WACE,gBAAgB,CAChB,YAAY,CACZ,MAAO,CACP,KAAK,CACL,wBACF,CACA,KACE,WACF","file":"main.ad64c229.chunk.css","sourcesContent":[".searchTab{\r\n  position:'fixed';\r\n  width:'100%';\r\n  left: 0;\r\n  top:0;\r\n  background-color:rgb(255,133,42);\r\n}\r\nspan{\r\n  height: 30px;\r\n}"]}
